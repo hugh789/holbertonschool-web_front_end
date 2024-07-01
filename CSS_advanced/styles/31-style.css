@@ -283,7 +283,7 @@ ul.row {
     height: 10rem;
 }
 
-.card-testimonial .card-quote cite {
+.card-testimonial .card-quote {
     position: relative;
 }
 
@@ -296,6 +296,7 @@ ul.row {
     font-size: 10rem;
     z-index: -1;
 }
+
 
 .card-testimonial .card-quote cite {
     display: block;
